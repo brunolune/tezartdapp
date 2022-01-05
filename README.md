@@ -4,7 +4,7 @@
 Got following errors (Tezart Issue #76)
 
 
-##First trial,debug console:
+## First trial,debug console:
 
 I/flutter ( 6163): 2022-01-05 15:35:09.686505[INFO] - RpcInterface : request for contract : KT1QLqPN8us3LpgqSR9BgdF8bwJ8vJBjhfwV, entrypoint: increment
 I/flutter ( 6163): 2022-01-05 15:35:09.687491[INFO] - TezartHttpClient : request to get from path: chains/main/blocks/head/context/contracts/KT1QLqPN8us3LpgqSR9BgdF8bwJ8vJBjhfwV/entrypoints/increment
@@ -90,7 +90,7 @@ E/flutter ( 6163):
 
 
 
-##Second trial, debug console (time-out error):
+## Second trial, debug console (time-out error):
 
 I/flutter ( 6163): 2022-01-05 15:37:55.588968[INFO] - RpcInterface : request for contract : KT1QLqPN8us3LpgqSR9BgdF8bwJ8vJBjhfwV, entrypoint: increment
 I/flutter ( 6163): 2022-01-05 15:37:55.589464[INFO] - TezartHttpClient : request to get from path: chains/main/blocks/head/context/contracts/KT1QLqPN8us3LpgqSR9BgdF8bwJ8vJBjhfwV/entrypoints/increment
